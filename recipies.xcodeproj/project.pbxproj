@@ -20,6 +20,7 @@
 		5D2D49CB27B3C1DD00CAE2AA /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2D49CA27B3C1DD00CAE2AA /* RecipeModel.swift */; };
 		5D2D49CD27B3C33800CAE2AA /* RecipeCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2D49CC27B3C33800CAE2AA /* RecipeCard.swift */; };
 		C441FD0627B7C1D10021B349 /* RecipeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C441FD0527B7C1D10021B349 /* RecipeList.swift */; };
+		C441FD0827B7C51D0021B349 /* RecipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C441FD0727B7C51D0021B349 /* RecipeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		5D2D49CA27B3C1DD00CAE2AA /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		5D2D49CC27B3C33800CAE2AA /* RecipeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCard.swift; sourceTree = "<group>"; };
 		C441FD0527B7C1D10021B349 /* RecipeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeList.swift; sourceTree = "<group>"; };
+		C441FD0727B7C51D0021B349 /* RecipeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				5D2D49C427B3C01C00CAE2AA /* FavoritesView.swift */,
 				5D2D49C627B3C04900CAE2AA /* SettingsView.swift */,
 				5D2D49C827B3C07600CAE2AA /* TabBar.swift */,
+				C441FD0727B7C51D0021B349 /* RecipeView.swift */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				5D2D49C327B3BFF200CAE2AA /* NewRecipeView.swift in Sources */,
 				5D2D49C927B3C07600CAE2AA /* TabBar.swift in Sources */,
 				5D2D49C527B3C01C00CAE2AA /* FavoritesView.swift in Sources */,
+				C441FD0827B7C51D0021B349 /* RecipeView.swift in Sources */,
 				C441FD0627B7C1D10021B349 /* RecipeList.swift in Sources */,
 				5D2D49BF27B3BFA900CAE2AA /* HomeView.swift in Sources */,
 				5D2D49AF27B3BF5C00CAE2AA /* ContentView.swift in Sources */,
